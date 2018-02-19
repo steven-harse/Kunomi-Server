@@ -1,0 +1,7 @@
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\obj\Debug\Server.exe
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\obj\Debug\Server.pdb
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\bin\Debug\Server.exe
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\bin\Debug\Server.pdb
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\obj\Debug\KunomiServer.csproj.GenerateResource.Cache
+C:\Users\fukac\Desktop\repos\Kunomi-Server\Server\obj\Debug\Server.KunomiServerForm.resources

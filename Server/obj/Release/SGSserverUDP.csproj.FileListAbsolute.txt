@@ -1,0 +1,7 @@
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\bin\Release\Server.exe
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\bin\Release\Server.pdb
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\obj\Release\Server.SGSserverForm.resources
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\obj\Release\SGSserverUDP.csproj.GenerateResource.Cache
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\obj\Release\Server.exe
+C:\Users\fukac\Desktop\UDP Chat\SGSserverUDP\Server\obj\Release\Server.pdb
